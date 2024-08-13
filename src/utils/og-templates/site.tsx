@@ -24,7 +24,7 @@ export default async () => {
           opacity: "0.9",
           borderRadius: "4px",
           display: "flex",
-          justifyContent: "center",
+          justifyContent: "center", 
           margin: "2.5rem",
           width: "88%",
           height: "80%",
