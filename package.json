@@ -17,6 +17,7 @@
     "@astrojs/check": "^0.9.1",
     "@astrojs/rss": "^4.0.7",
     "@resvg/resvg-js": "^2.6.2",
+    "@supabase/supabase-js": "^2.45.1",
     "astro": "^4.13.0",
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
